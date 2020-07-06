@@ -1,0 +1,670 @@
+[
+    {
+        "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/code.cpp",
+        "file_last_write": 1593748260.0,
+        "definitions": []
+    },
+    {
+        "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+        "file_last_write": 1593792717.0,
+        "definitions": [
+            {
+                "usr": "c:decomp_mef.cpp@T@si1",
+                "kind": 8,
+                "parent_name": "",
+                "name": "si1",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 41,
+                "column": 16
+            },
+            {
+                "usr": "c:decomp_mef.cpp@T@ui1",
+                "kind": 8,
+                "parent_name": "",
+                "name": "ui1",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 42,
+                "column": 24
+            },
+            {
+                "usr": "c:decomp_mef.cpp@T@si2",
+                "kind": 8,
+                "parent_name": "",
+                "name": "si2",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 43,
+                "column": 17
+            },
+            {
+                "usr": "c:decomp_mef.cpp@T@ui2",
+                "kind": 8,
+                "parent_name": "",
+                "name": "ui2",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 44,
+                "column": 25
+            },
+            {
+                "usr": "c:decomp_mef.cpp@T@si4",
+                "kind": 8,
+                "parent_name": "",
+                "name": "si4",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 45,
+                "column": 15
+            },
+            {
+                "usr": "c:decomp_mef.cpp@T@ui4",
+                "kind": 8,
+                "parent_name": "",
+                "name": "ui4",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 46,
+                "column": 23
+            },
+            {
+                "usr": "c:decomp_mef.cpp@T@sf4",
+                "kind": 8,
+                "parent_name": "",
+                "name": "sf4",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 47,
+                "column": 17
+            },
+            {
+                "usr": "c:decomp_mef.cpp@T@si8",
+                "kind": 8,
+                "parent_name": "",
+                "name": "si8",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 48,
+                "column": 19
+            },
+            {
+                "usr": "c:decomp_mef.cpp@T@ui8",
+                "kind": 8,
+                "parent_name": "",
+                "name": "ui8",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 49,
+                "column": 27
+            },
+            {
+                "usr": "c:decomp_mef.cpp@T@sf8",
+                "kind": 8,
+                "parent_name": "",
+                "name": "sf8",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 50,
+                "column": 18
+            },
+            {
+                "usr": "c:@T@INDEX_DATA",
+                "kind": 8,
+                "parent_name": "",
+                "name": "INDEX_DATA",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 195,
+                "column": 3
+            },
+            {
+                "usr": "c:@T@MEF_HEADER_INFO",
+                "kind": 8,
+                "parent_name": "",
+                "name": "MEF_HEADER_INFO",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 248,
+                "column": 3
+            },
+            {
+                "usr": "c:@T@RED_BLOCK_HDR_INFO",
+                "kind": 8,
+                "parent_name": "",
+                "name": "RED_BLOCK_HDR_INFO",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 290,
+                "column": 3
+            },
+            {
+                "usr": "c:@F@getSBoxValue#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "getSBoxValue(int)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 628,
+                "column": 5
+            },
+            {
+                "usr": "c:@F@getSBoxInvert#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "getSBoxInvert(int)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 653,
+                "column": 5
+            },
+            {
+                "usr": "c:@F@AES_KeyExpansion#I#I#*c#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "AES_KeyExpansion(int, int, unsigned char *, unsigned char *)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 679,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@AddRoundKey#I#*{n4c#*c#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "AddRoundKey(int, unsigned char (*)[4], unsigned char *)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 759,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@SubBytes#*{n4c#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "SubBytes(unsigned char (*)[4])",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 775,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@InvSubBytes#*{n4c#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "InvSubBytes(unsigned char (*)[4])",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 789,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@ShiftRows#*{n4c#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "ShiftRows(unsigned char (*)[4])",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 806,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@InvShiftRows#*{n4c#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "InvShiftRows(unsigned char (*)[4])",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 837,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@MixColumns#*{n4c#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "MixColumns(unsigned char (*)[4])",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 871,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@InvMixColumns#*{n4c#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "InvMixColumns(unsigned char (*)[4])",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 899,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@Cipher#I#*c#S0_#*{n4c#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "Cipher(int, unsigned char *, unsigned char *, unsigned char (*)[4], unsigned char *)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 920,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@InvCipher#I#*c#S0_#*{n4c#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "InvCipher(int, unsigned char *, unsigned char *, unsigned char (*)[4], unsigned char *)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 963,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@AES_encrypt#*c#S0_#*C#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "AES_encrypt(unsigned char *, unsigned char *, char *)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 1007,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@AES_encryptWithKey#*c#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "AES_encryptWithKey(unsigned char *, unsigned char *, unsigned char *)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 1029,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@AES_decrypt#*c#S0_#*C#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "AES_decrypt(unsigned char *, unsigned char *, char *)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 1044,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@AES_decryptWithKey#*c#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "AES_decryptWithKey(unsigned char *, unsigned char *, unsigned char *)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 1066,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@cpu_endianness#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "cpu_endianness",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 1109,
+                "column": 5
+            },
+            {
+                "usr": "c:@F@reverse_in_place#*v#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "reverse_in_place(void *, si4)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 1117,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@rev_si2#S#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "rev_si2(si2)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 1132,
+                "column": 5
+            },
+            {
+                "usr": "c:@F@rev_ui2#s#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "rev_ui2(ui2)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 1146,
+                "column": 5
+            },
+            {
+                "usr": "c:@F@rev_si4#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "rev_si4(si4)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 1160,
+                "column": 5
+            },
+            {
+                "usr": "c:@F@rev_ui4#i#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "rev_ui4(ui4)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 1176,
+                "column": 5
+            },
+            {
+                "usr": "c:@F@rev_sf4#f#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "rev_sf4(sf4)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 1192,
+                "column": 5
+            },
+            {
+                "usr": "c:@F@rev_si8#L#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "rev_si8(si8)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 1208,
+                "column": 5
+            },
+            {
+                "usr": "c:@F@rev_ui8#l#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "rev_ui8(ui8)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 1229,
+                "column": 5
+            },
+            {
+                "usr": "c:@F@rev_sf8#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "rev_sf8(sf8)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 1256,
+                "column": 5
+            },
+            {
+                "usr": "c:decomp_mef.cpp@F@init_crc32_tab#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "init_crc32_tab",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 1328,
+                "column": 13
+            },
+            {
+                "usr": "c:@F@update_crc_32#i#C#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "update_crc_32(ui4, si1)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 1352,
+                "column": 5
+            },
+            {
+                "usr": "c:@T@RANGE_STATS",
+                "kind": 8,
+                "parent_name": "",
+                "name": "RANGE_STATS",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 1383,
+                "column": 3
+            },
+            {
+                "usr": "c:@F@enc_normalize#*$@SA@RANGE_STATS#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "enc_normalize(RANGE_STATS *)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 1386,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@encode_symbol#c#i#i#i#*$@SA@RANGE_STATS#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "encode_symbol(ui1, ui4, ui4, ui4, RANGE_STATS *)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 1410,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@done_encoding#*$@SA@RANGE_STATS#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "done_encoding(RANGE_STATS *)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 1425,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@RED_compress_block#*I#*c#i#l#c#*C#*$@SA@RED_BLOCK_HDR_INFO#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "RED_compress_block(si4 *, ui1 *, ui4, ui8, ui1, si1 *, RED_BLOCK_HDR_INFO *)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 1448,
+                "column": 5
+            },
+            {
+                "usr": "c:decomp_mef.cpp@F@dec_normalize#*i#S0_#*c#*S1_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "dec_normalize(ui4 *, ui4 *, ui1 *, ui1 **)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 1602,
+                "column": 20
+            },
+            {
+                "usr": "c:@F@RED_decompress_block#*c#*I#*C#S2_#c#c#*$@SA@RED_BLOCK_HDR_INFO#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "RED_decompress_block(ui1 *, si4 *, si1 *, si1 *, ui1, ui1, RED_BLOCK_HDR_INFO *)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 1627,
+                "column": 5
+            },
+            {
+                "usr": "c:@F@build_mef_header_block#*c#*$@SA@MEF_HEADER_INFO#*C#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "build_mef_header_block(ui1 *, MEF_HEADER_INFO *, si1 *)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 1746,
+                "column": 5
+            },
+            {
+                "usr": "c:@F@read_mef_header_block#*c#*$@SA@MEF_HEADER_INFO#*C#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "read_mef_header_block(ui1 *, MEF_HEADER_INFO *, si1 *)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 1913,
+                "column": 5
+            },
+            {
+                "usr": "c:@F@validate_password#*c#*C#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "validate_password(ui1 *, si1 *)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 2135,
+                "column": 5
+            },
+            {
+                "usr": "c:@F@showHeader#*$@SA@MEF_HEADER_INFO#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "showHeader(MEF_HEADER_INFO *)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 2214,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@generate_unique_ID#*c#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "generate_unique_ID(ui1 *)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 2386,
+                "column": 5
+            },
+            {
+                "usr": "c:@F@set_hdr_unique_ID#*$@SA@MEF_HEADER_INFO#*c#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "set_hdr_unique_ID(MEF_HEADER_INFO *, ui1 *)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 2414,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@set_block_hdr_unique_ID#*c#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "set_block_hdr_unique_ID(ui1 *, ui1 *)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 2435,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@set_session_unique_ID#*C#*c#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "set_session_unique_ID(char *, ui1 *)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 2450,
+                "column": 5
+            },
+            {
+                "usr": "c:@F@check_header_block_alignment#*c#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "check_header_block_alignment(ui1 *, si4)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 2481,
+                "column": 5
+            },
+            {
+                "usr": "c:@F@strncpy2#*C#S0_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "strncpy2(si1 *, si1 *, si4)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 2494,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@init_hdr_struct#*$@SA@MEF_HEADER_INFO#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "init_hdr_struct(MEF_HEADER_INFO *)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 2509,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@write_mef#*I#*$@SA@MEF_HEADER_INFO#l#*C#S3_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "write_mef(si4 *, MEF_HEADER_INFO *, ui8, si1 *, si1 *)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 2530,
+                "column": 5
+            },
+            {
+                "usr": "c:@F@write_mef_ind#*I#*$@SA@MEF_HEADER_INFO#l#*C#S3_#*$@SA@INDEX_DATA#I#*c#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "write_mef_ind(si4 *, MEF_HEADER_INFO *, ui8, si1 *, si1 *, INDEX_DATA *, si4, ui1 *)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 2684,
+                "column": 5
+            },
+            {
+                "usr": "c:@F@build_RED_block_header#*c#*$@SA@RED_BLOCK_HDR_INFO#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "build_RED_block_header(ui1 *, RED_BLOCK_HDR_INFO *)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 2868,
+                "column": 5
+            },
+            {
+                "usr": "c:@F@read_RED_block_header#*c#*$@SA@RED_BLOCK_HDR_INFO#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "read_RED_block_header(ui1 *, RED_BLOCK_HDR_INFO *)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 2934,
+                "column": 5
+            },
+            {
+                "usr": "c:@F@calculate_CRC#*c#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "calculate_CRC(ui1 *)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 2990,
+                "column": 5
+            },
+            {
+                "usr": "c:@F@validate_mef#*C#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "validate_mef(char *, char *, char *)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 3018,
+                "column": 5
+            },
+            {
+                "usr": "c:@F@decomp_mef#$@N@Rcpp@S@Vector>#VI16#@N@Rcpp@ST>1#T@PreserveStorage#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "decomp_mef(Rcpp::StringVector)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/decomp_mef.cpp",
+                "line": 3238,
+                "column": 18
+            }
+        ]
+    },
+    {
+        "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/get_discontinuities.cpp",
+        "file_last_write": 1593824998.0,
+        "definitions": [
+            {
+                "usr": "c:@F@get_discontinuities#$@N@Rcpp@S@Vector>#VI16#@N@Rcpp@ST>1#T@PreserveStorage#$@N@Rcpp@S@Matrix>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "get_discontinuities(Rcpp::StringVector, Rcpp::NumericMatrix)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools/Analysis/meftools/src/get_discontinuities.cpp",
+                "line": 14,
+                "column": 21
+            }
+        ]
+    },
+    {
+        "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools_minex/Analysis/meftools_minex/inst/include/myPackage_types.h",
+        "file_last_write": 1594066339.0,
+        "definitions": [
+            {
+                "usr": "c:@N@Rcpp@SA@MY_HEADER_INFO",
+                "kind": 3,
+                "parent_name": "",
+                "name": "",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools_minex/Analysis/meftools_minex/inst/include/myPackage_types.h",
+                "line": 4,
+                "column": 11
+            },
+            {
+                "usr": "c:@N@Rcpp@T@MY_HEADER_INFO",
+                "kind": 8,
+                "parent_name": "",
+                "name": "MY_HEADER_INFO",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools_minex/Analysis/meftools_minex/inst/include/myPackage_types.h",
+                "line": 6,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools_minex/Analysis/meftools_minex/src/read_header.cpp",
+        "file_last_write": 1594068723.0,
+        "definitions": [
+            {
+                "usr": "c:@N@Rcpp@F@wrap<#$@N@Rcpp@SA@MY_HEADER_INFO>#&1S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "wrap<>(const Rcpp::MY_HEADER_INFO &)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools_minex/Analysis/meftools_minex/src/read_header.cpp",
+                "line": 15,
+                "column": 20
+            },
+            {
+                "usr": "c:@F@read_header#$@N@Rcpp@S@Vector>#VI16#@N@Rcpp@ST>1#T@PreserveStorage#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "read_header(Rcpp::StringVector)",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools_minex/Analysis/meftools_minex/src/read_header.cpp",
+                "line": 30,
+                "column": 22
+            }
+        ]
+    }
+]

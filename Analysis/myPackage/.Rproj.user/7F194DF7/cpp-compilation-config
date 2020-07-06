@@ -1,0 +1,22 @@
+{
+    "args": [
+        "-I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include",
+        "-I/usr/local/include",
+        "-I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1",
+        "-I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.1/include",
+        "-I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include",
+        "-I/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include",
+        "-I/Library/Frameworks/R.framework/Versions/4.0/Resources/library/Rcpp/include",
+        "-std=gnu++11",
+        "-I/Library/Frameworks/R.framework/Resources/include",
+        "-DNDEBUG",
+        "-I/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools_minex/Analysis/meftools_minex/inst/include/",
+        "-I/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools_minex/Analysis/meftools_minex/src",
+        "-DBOOST_NO_AUTO_PTR",
+        "-I/usr/local/include",
+        "-fPIC"
+    ],
+    "pch": "Rcpp",
+    "is_cpp": true,
+    "hash": "15940670811594066543"
+}

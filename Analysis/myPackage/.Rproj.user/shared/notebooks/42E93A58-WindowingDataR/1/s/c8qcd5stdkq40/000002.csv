@@ -1,0 +1,8 @@
+"0","accumulator <- 0"
+"0","V <- c(11,12,13,14)"
+"0","for ( idx in seq(1,5) ) { accumulator <- accumulator + V[idx] }"
+"0","print( accumulator )"
+"1","[1]"
+"1"," NA"
+"1","
+"
