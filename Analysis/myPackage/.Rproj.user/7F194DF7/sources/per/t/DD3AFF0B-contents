@@ -12,27 +12,42 @@
 
 namespace Rcpp {
 
+  template <> SEXP wrap(const MY_HEADER_INFO& x);
+
+}
+
+#include <Rcpp.h>
+
+namespace Rcpp {
   template <> SEXP wrap(const MY_HEADER_INFO& x) {
     std::vector<std::string> names;
     std::vector<SEXP> elements(1);
     // do something with the elements and names
     names.push_back("my_data");
     elements[0] = wrap( x.my_data );
-    return 0;
+    
+    Rcpp::List result(elements.size());
+    for (size_t i = 0; i < elements.size(); ++i) {
+      result[i] = elements[i];
+    }
+    result.attr("names") = Rcpp::wrap(names);
+    // result can be return to R as a list   
+    return( result );
   };
 }
 
-#include <Rcpp.h>
-
-//' @param StringVector strings
 //' @export
 // [[Rcpp::export]]
-Rcpp::MY_HEADER_INFO read_header(Rcpp::StringVector strings) {
-  Rcpp::MY_HEADER_INFO *header;
+  Rcpp::MY_HEADER_INFO read_header() {
+    Rcpp::MY_HEADER_INFO *header = NULL;
     
-  header = (Rcpp::MY_HEADER_INFO*)malloc(sizeof(Rcpp::MY_HEADER_INFO));
-  memset(header, 0, sizeof(Rcpp::MY_HEADER_INFO));
+    printf( "%ld\n", sizeof(Rcpp::MY_HEADER_INFO) );
     
-  return *header;
+    header = (Rcpp::MY_HEADER_INFO*)malloc(sizeof(Rcpp::MY_HEADER_INFO));
+    memset(header, 0, sizeof(Rcpp::MY_HEADER_INFO));
+    
+    header->my_data = 10;
+    
+    return *header;
 }
 

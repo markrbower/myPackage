@@ -1,24 +1,24 @@
 {
     "id": "DD3AFF0B",
-    "path": "~/Dropbox/Documents/Concepts/2018_07_27_meftools_minex/Analysis/meftools_minex/src/read_header.cpp",
+    "path": "~/Dropbox/Documents/Concepts/2018_07_27_myPackage/myPackage/myPackage/Analysis/myPackage/src/read_header.cpp",
     "project_path": "src/read_header.cpp",
     "type": "cpp",
-    "hash": "3562447806",
+    "hash": "2107166645",
     "contents": "",
     "dirty": false,
     "created": 1593889616263.0,
     "source_on_save": true,
     "relative_order": 3,
     "properties": {
-        "cursorPosition": "3,0",
-        "scrollLine": "0"
+        "cursorPosition": "48,0",
+        "scrollLine": "13"
     },
     "folds": "",
-    "lastKnownWriteTime": 1594068723,
+    "lastKnownWriteTime": 1594156638,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1594068723041,
+    "last_content_update": 1594156638351,
     "read_only": false,
     "read_only_alternatives": []
 }

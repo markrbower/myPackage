@@ -620,50 +620,41 @@
         ]
     },
     {
-        "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools_minex/Analysis/meftools_minex/inst/include/myPackage_types.h",
-        "file_last_write": 1594066339.0,
+        "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_myPackage/myPackage/myPackage/Analysis/myPackage/inst/include/myPackage_types.h",
+        "file_last_write": 1594148223.0,
         "definitions": [
-            {
-                "usr": "c:@N@Rcpp@SA@MY_HEADER_INFO",
-                "kind": 3,
-                "parent_name": "",
-                "name": "",
-                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools_minex/Analysis/meftools_minex/inst/include/myPackage_types.h",
-                "line": 4,
-                "column": 11
-            },
             {
                 "usr": "c:@N@Rcpp@T@MY_HEADER_INFO",
                 "kind": 8,
                 "parent_name": "",
                 "name": "MY_HEADER_INFO",
-                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools_minex/Analysis/meftools_minex/inst/include/myPackage_types.h",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_myPackage/myPackage/myPackage/Analysis/myPackage/inst/include/myPackage_types.h",
                 "line": 6,
                 "column": 5
             }
         ]
     },
     {
-        "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools_minex/Analysis/meftools_minex/src/read_header.cpp",
-        "file_last_write": 1594068723.0,
+        "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_myPackage/myPackage/myPackage/Analysis/myPackage/src/read_header.cpp",
+        "file_last_write": 1594156638.0,
         "definitions": [
             {
                 "usr": "c:@N@Rcpp@F@wrap<#$@N@Rcpp@SA@MY_HEADER_INFO>#&1S0_#",
                 "kind": 6,
                 "parent_name": "",
                 "name": "wrap<>(const Rcpp::MY_HEADER_INFO &)",
-                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools_minex/Analysis/meftools_minex/src/read_header.cpp",
-                "line": 15,
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_myPackage/myPackage/myPackage/Analysis/myPackage/src/read_header.cpp",
+                "line": 22,
                 "column": 20
             },
             {
-                "usr": "c:@F@read_header#$@N@Rcpp@S@Vector>#VI16#@N@Rcpp@ST>1#T@PreserveStorage#",
+                "usr": "c:@F@read_header#",
                 "kind": 6,
                 "parent_name": "",
-                "name": "read_header(Rcpp::StringVector)",
-                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools_minex/Analysis/meftools_minex/src/read_header.cpp",
-                "line": 30,
-                "column": 22
+                "name": "read_header",
+                "file": "/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_myPackage/myPackage/myPackage/Analysis/myPackage/src/read_header.cpp",
+                "line": 41,
+                "column": 24
             }
         ]
     }

@@ -7,19 +7,18 @@
 using namespace Rcpp;
 
 // read_header
-Rcpp::MY_HEADER_INFO read_header(Rcpp::StringVector strings);
-RcppExport SEXP _myPackage_read_header(SEXP stringsSEXP) {
+Rcpp::MY_HEADER_INFO read_header();
+RcppExport SEXP _myPackage_read_header() {
 BEGIN_RCPP
     Rcpp::RObject rcpp_result_gen;
     Rcpp::RNGScope rcpp_rngScope_gen;
-    Rcpp::traits::input_parameter< Rcpp::StringVector >::type strings(stringsSEXP);
-    rcpp_result_gen = Rcpp::wrap(read_header(strings));
+    rcpp_result_gen = Rcpp::wrap(read_header());
     return rcpp_result_gen;
 END_RCPP
 }
 
 static const R_CallMethodDef CallEntries[] = {
-    {"_myPackage_read_header", (DL_FUNC) &_myPackage_read_header, 1},
+    {"_myPackage_read_header", (DL_FUNC) &_myPackage_read_header, 0},
     {NULL, NULL, 0}
 };
 

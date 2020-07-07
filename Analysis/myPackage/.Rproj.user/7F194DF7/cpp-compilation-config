@@ -10,13 +10,13 @@
         "-std=gnu++11",
         "-I/Library/Frameworks/R.framework/Resources/include",
         "-DNDEBUG",
-        "-I/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools_minex/Analysis/meftools_minex/inst/include/",
-        "-I/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_meftools_minex/Analysis/meftools_minex/src",
+        "-I/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_myPackage/myPackage/myPackage/Analysis/myPackage/inst/include/",
+        "-I/Users/markrbower/Dropbox/Documents/Concepts/2018_07_27_myPackage/myPackage/myPackage/Analysis/myPackage/src",
         "-DBOOST_NO_AUTO_PTR",
         "-I/usr/local/include",
         "-fPIC"
     ],
     "pch": "Rcpp",
     "is_cpp": true,
-    "hash": "15940670811594066543"
+    "hash": "15940701731594070174"
 }
