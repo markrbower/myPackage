@@ -36,6 +36,7 @@ namespace Rcpp {
   };
 }
 
+//' @useDynLib myPackage
 //' @export
 // [[Rcpp::export]]
   Rcpp::MY_HEADER_INFO read_header() {

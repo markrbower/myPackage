@@ -7,5 +7,5 @@ namespace Rcpp {
 
   template <> SEXP wrap(const MY_HEADER_INFO& x);
   
-//  template<> MY_HEADER_INFO* as(SEXP x);
+  template<> MY_HEADER_INFO* as(SEXP x);
 } 
